@@ -91,6 +91,4 @@ A cloud-native data pipeline project demonstrating the use of:
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=keval72.keval72)
-
 _“Data is not just information — it’s the story behind every decision.”_
