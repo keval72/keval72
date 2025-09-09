@@ -57,7 +57,7 @@ A cloud-native data pipeline project demonstrating the use of:
 
 ---
 
-## 📈 GitHub Stats (Optional Section – Let me know if you'd like these)
+## 📈 GitHub Stats
 
 ![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=keval72&show_icons=true&hide_title=true&count_private=true&theme=default)
 
