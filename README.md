@@ -85,11 +85,12 @@ A cloud-native data pipeline project demonstrating the use of:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 
 
 ![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=keval72&show_icons=true&hide_title=true&count_private=true&theme=default)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=keval72.keval72)
 
 ---
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=keval72.keval72)
 
 _“Data is not just information — it’s the story behind every decision.”_
