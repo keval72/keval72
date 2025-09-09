@@ -1,7 +1,10 @@
 # 👋 Hi there, I'm Keval Patel
 
 🚀 **Data Engineer** | 🧠 **Cloud Analytics Enthusiast** | 🛠️ **ETL & Big Data Specialist**  
-📍 Based in Seattle, WA | 🌐 [kevalpatel72](https://www.linkedin.com/in/kevalpatel72)
+📍 Based in Seattle, WA  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalpatel72)
+[![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kevalvpatel/vizzes)
 
 ---
 
@@ -13,39 +16,51 @@ Currently working at **Viome** on transforming E-commerce data using tools like 
 
 ---
 
-## 🧠 Core Skills & Technologies
+## 🧠 Skills & Technologies
 
-**Languages & Scripting**: Python, SQL, PySpark, Shell  
-**Big Data**: Apache Spark, Snowflake, Databricks, Airflow, DBT  
-**Databases**: PostgreSQL, SQL Server  
-**Cloud**:  
-- **Azure** (Data Factory, Synapse, Databricks, Fabric)  
-- **AWS** (Redshift, S3)  
-- **GCP** (BigQuery)  
-**Visualization**: Tableau  
-**Other Tools**: GitHub, Excel, Jira
+### 💻 Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+### 🔧 Big Data & ETL
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat&logo=databricks&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+### ☁️ Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+### 📊 Visualization & Tools
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
-## 📊 Projects
+## 📊 Featured Project
 
 ### 🎯 [Olympic Data Analytics](https://github.com/keval72/Tokyo-Olympics-Data-Analytics-Using-Azure)
 A cloud-native data pipeline project demonstrating the use of:
 - Azure Data Factory (ETL)
 - Azure Data Lake Storage Gen2
 - PySpark (Databricks)
-- Azure Synapse Analytics for querying and insights
-
-> **Goal**: Extract insights from Olympic data using a fully integrated Azure stack.
+- Azure Synapse Analytics
 
 ---
 
 ## 💼 Experience Highlights
 
-- Developed production-ready ETL pipelines using **Airflow**, **Python**, and **SQL** to ingest and transform multi-source data.
-- Designed marketing analytics dashboards driving **30%+ ROI improvement**.
-- Led data warehouse optimizations at **Arizona State University**, improving query performance by **30%**.
-- Built advanced data models and CDC workflows in **Snowflake** for large-scale enterprise analytics.
+- Designed ETL pipelines using **Airflow**, **Python**, and **SQL** for daily e-commerce data ingestion at Viome.
+- Built marketing attribution dashboards resulting in **30%+ ROAS improvement**.
+- Improved **Snowflake** query performance by 30% via clustering and materialized views.
+- Reduced Spark job latency by 40% for enterprise-scale analytics in AWS and Azure.
 
 ---
 
@@ -54,6 +69,7 @@ A cloud-native data pipeline project demonstrating the use of:
 - 📧 Email: ekevalpatel@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/kevalpatel72)  
 - 📂 [GitHub](https://github.com/keval72)  
+- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/kevalvpatel/vizzes)
 
 ---
 
@@ -64,4 +80,3 @@ A cloud-native data pipeline project demonstrating the use of:
 ---
 
 _“Data is not just information — it’s the story behind every decision.”_
-
