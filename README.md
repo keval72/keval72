@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Keval
 
-🚀 **Data Engineer** | 🛠️ **ETL, Cloud & Big Data Specialist** | 📍 Based in Seattle, WA  
+🚀 **Data Engineer** | **BI Engineer** | 🛠️ **ETL, Cloud & Big Data Specialist** | 📍 Based in Seattle, WA  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalpatel72)
 [![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kevalvpatel/vizzes)
