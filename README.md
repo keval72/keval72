@@ -9,7 +9,7 @@
 
 ## 🔍 About Me
 
-I'm a passionate Data Engineer with hands-on experience building scalable ETL pipelines, optimizing data warehouses, and visualizing insights to drive decision-making. I specialize in cloud-based data solutions using **AWS**, **Azure**, and **Snowflake**, and enjoy turning raw data into meaningful outcomes.
+Experience building scalable ETL pipelines, optimizing data warehouses, and visualizing insights to drive decision-making. I specialize in cloud-based data solutions using **AWS**, **Azure**, and **Snowflake**, and enjoy turning raw data into meaningful outcomes.
 
 Currently working at **Viome**, transforming E-commerce data to power daily business decisions.
 
