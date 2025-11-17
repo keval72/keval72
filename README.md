@@ -45,26 +45,6 @@ Currently working at **Viome**, transforming E-commerce data to power daily busi
 
 ---
 
-## 📊 Featured Project
-
-### 🎯 [Olympic Data Analytics](https://github.com/keval72/Tokyo-Olympics-Data-Analytics-Using-Azure)
-A cloud-native data pipeline project demonstrating the use of:
-- Azure Data Factory (ETL)
-- Azure Data Lake Storage Gen2 (Storage)
-- Azure Databricks (Transform)
-- Azure Synapse Analytics (Analyze)
-
----
-
-## 💼 Experience Highlights
-
-- Designed ETL pipelines using **Airflow**, **Python**, and **SQL** for daily e-commerce data ingestion at Viome.
-- Built marketing attribution dashboards resulting in **30%+ ROAS improvement**.
-- Improved **Snowflake** query performance by 30% via clustering and materialized views.
-- Reduced Spark job latency by 40% for enterprise-scale analytics in AWS and Azure.
-
----
-
 ## 🎓 Certifications
 
 [![dbt Certification](https://img.shields.io/badge/dbt%20Certified-FE6532?style=for-the-badge&logo=dbt&logoColor=white)](https://credentials.getdbt.com/b262e34f-9ad1-4f05-87c1-db3559000fc2#acc.NOPZSTuG)
