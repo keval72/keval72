@@ -3,7 +3,7 @@
 🚀 **Data Engineer** | **Data Analyst** | **BI Engineer** | 🛠️ **ETL, Cloud & Big Data Specialist** | 📍 Based in Seattle, WA  
 
 [![View LinkedIn](https://img.shields.io/badge/View_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevalpatel72)
-[![View Tableau](https://img.shields.io/badge/View_Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kevalvpatel/vizzes)
+[![Tableau Portfolio](https://img.shields.io/badge/Tableau_Portfolio-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/kevalvpatel/vizzes)
 [![View Power BI](https://img.shields.io/badge/View_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://github.com/keval72/Bike-Sales-Report-Using-PowerBI)
 
 ---
